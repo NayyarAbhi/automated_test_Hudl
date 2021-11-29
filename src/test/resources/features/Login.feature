@@ -5,7 +5,7 @@ Feature: Login validation for Hudl
     And I click on Login Button
     And I should see login Page
 
-  #Password provided in the note section of assignment
+  #Password provided in the note section of email
   @LoginTest @positive
   Scenario Outline: Enter valid credentials and successful login
     When I enter "<email>" with "<password>" on login page
@@ -14,7 +14,7 @@ Feature: Login validation for Hudl
 
     Examples:
       | email                  | password |
-      | abhinayyar83@gmail.com | Hudl@123 |
+      | abhinayyar83@gmail.com | ******** |
 
   @LoginTest @negative
   Scenario Outline: Enter invalid credentials and login failure

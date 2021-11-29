@@ -43,8 +43,9 @@ Download Zip
 ##Generating the test report##
 This project is using Allure Report to automatically generate test report Command line to generate it in two ways:
 
-mvn allure:serve: To open report in browser
-mvn allure:report: To generate project report at target/site/allure-maven-plugin folder
+mvn allure:serve > To open report in browser
+
+mvn allure:report > To generate project report at target/site/allure-maven-plugin folder
 
 Sample reports attached in email
 
