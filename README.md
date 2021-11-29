@@ -69,6 +69,6 @@ src/test/resources
 2. allure.properties
 3. config.properties
 
-screenshot_1<img width="1425" alt="screenshot_1" src="https://user-images.githubusercontent.com/43905401/123493007-15005c80-d613-11eb-9289-70ca03e51f0d.png">
+![image](https://user-images.githubusercontent.com/95123720/143862353-44640a1c-4a23-4afe-96ec-983d86f9b07e.png)
 
 ![image](https://user-images.githubusercontent.com/95123720/143862066-37b9d4b1-2779-4598-ac5c-3140ae4b9efb.png)
