@@ -71,5 +71,3 @@ src/test/resources
 
 screenshot_1<img width="1425" alt="screenshot_1" src="https://user-images.githubusercontent.com/43905401/123493007-15005c80-d613-11eb-9289-70ca03e51f0d.png">
 
-screenshot_2<img width="1425" alt="screenshot_2" src="https://user-images.githubusercontent.com/43905401/123493013-1a5da700-d613-11eb-868d-ef9d0b0d80df.png">
-
